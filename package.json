@@ -1,0 +1,27 @@
+{
+  "name": "Geiser",
+  "version": "1.0.0",
+  "description": "pratica expressa",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogoulartmeneghin/cefet-web-geiser.git"
+  },
+  "author": "Bruno Goulart Meneghin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunogoulartmeneghin/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/brunogoulartmeneghin/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hbs": "^4.0.1",
+    "underscore": "^1.8.3"
+  }
+}
